@@ -12,3 +12,7 @@ Welcome to the Challenge Questions repository!This repo contains a collection of
 
 🐍 Focus on Python lists, loops, conditions, and more
 
+## 📄 Assignment PDF
+
+You can view the assignment question here:  
+[📥 Assignment - Challenge Question (1).pdf](Assignment%20-%20Challenge%20Question%20%281%29.pdf)
